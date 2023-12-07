@@ -11,13 +11,17 @@
   },
   "dependencies": {
     "d3": "^7.8.5",
+    "d3-queue": "^3.0.7",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "topojson": "^3.0.2"
   },
   "devDependencies": {
     "@types/d3": "^7.4.3",
+    "@types/d3-queue": "^3.0.10",
     "@types/react": "^18.2.39",
     "@types/react-dom": "^18.2.17",
+    "@types/topojson": "^3.2.6",
     "@typescript-eslint/eslint-plugin": "^6.13.1",
     "@typescript-eslint/parser": "^6.13.1",
     "@vitejs/plugin-react-swc": "^3.5.0",
